@@ -10,7 +10,7 @@ WebApp:
  https://shrey-movierecom.herokuapp.com
  
  
- 
+<br /> 
  Item’s rating is predicted based on how similar items have been rated by that user
  
 • The ratings are predicted using the user’s own ratings on neighbouring (closely related) items.
