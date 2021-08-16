@@ -13,6 +13,7 @@ WebApp:
 <br> 
  Item’s rating is predicted based on how similar items have been rated by that user
  
+ 
 • The ratings are predicted using the user’s own ratings on neighbouring (closely related) items.
 
 • Neighbourhoods are defined by similarities among items.(Columns of the ratings matrix).
