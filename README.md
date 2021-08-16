@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 
 • An Item Based Collaborative Filtering model to recommend movies to the user.
-
+<br>
 • It aims to suggest desired items using multiple users’ reviews on a target object.
 
 
@@ -16,6 +16,6 @@ WebApp:
 • The ratings are predicted using the user’s own ratings on neighbouring (closely related) items.
 
 • Neighbourhoods are defined by similarities among items.(Columns of the ratings matrix).
-
+<br>
 • Adjusted Cosine similarity provides superior results.
 <br /> 
